@@ -1,2 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>Song Search</title>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <script>// document.documentElement.className = "";</script>
+    <!--[if lt IE 9]>
+      <script src="/javascripts/compatibility/ie9.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+      <h1>Song Search</h1>
+      <h2>Example Corp.</h2>
+      <nav>
+        <ul class="site">
+          <li><a href="/">Home</a></li>
+        </ul>
+        <ul class="user">
+          <li><a href="/">Sign In</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section id="content">
+      <aside>
+        <h1>Search Options</h1>
+        <ul>
+          <li>
+            <a href="#search_by_title">Title</a>
+            <%= ul @selected_title, :class => 'field-value', 'data-field' => 'title' %>
+          </li>
+          <li>
+            <a href="#search_by_artist" data-action="toggle">Artist</a>
+            <%= ul @selected_artists, :class => 'field-value', 'data-field' => 'artists[]' %>
+          </li>
+        </ul>
+      </aside>
+      <form>
+        <section id="search_by_title">
+          <h1>Search by Title</h1>
+          <input name="title" placeholder="e.g. Eleanor Rigby" value="<%= @selected_title %>">
+        </section>
+        <section id="search_by_artist" class="dialog widget">
+          <h1>Search by Artist</h1>
+          <p class="help">Select one or more artists</p>
+          <fieldset class="widget">
+            <button class="clear">Clear</button>
+            <label for="select_artists">Artists</label>
+            <select id="select_artists" name="artists[]" multiple="multiple">
+              <%= options_from_collection_for_select @artists, :id, :name, @selected_artists.map(&:id) %>
+            </select>
+          </fieldset>
+        </section>
+        <footer class="submission">
+          <input type="submit" value="Search">
+        </footer>
+      </form>
+      <section id="search_results">
+        <h1>Results</h1>
+        <ul class="song-list">
+         <% @songs.each do |song| %>
+            <li>
+              <h2><%= song.name %></h2>
+              <dl>
+                <dt>Artist:</dt>
+                <dd><%= song.album.artist %></dd>
+                <dt>Album:</dt>
+                <dd><%= song.album %></dd>
+                <dt>Release Date:</dt>
+                <dd><time datetime="<%= song.album.release_date %>"><%= song.album.release_date %></time></dd>
+              </dl>
+            </li>
+          <% end %>
+        </ul>
+      </section>
+    </section>
+  </body>
+</html>
 
 
