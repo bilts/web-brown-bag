@@ -2,19 +2,16 @@ class SongsController < ApplicationController
   # GET /songs
   # GET /songs.xml
   def index
-    @artists = Artist.all
-    @albums = Album.all
-    @songs = Song.all
-    constraints = []
-    if params[:keywords].present?
-      @songs = Song.where("songs.name LIKE ?", "%#{params[:keywords]}%")
-    else
-      @songs = Song.all
-    end
+    @selected_title = params[:title].presence
+    @selected_artists = Artist.find(Array.wrap(params[:artists]))
 
-    if params[:artists].present?
-      @songs = @songs.find_all{|song| params[:artists].include? song.album.artist_id.to_s}
-    end
+    @artists = Artist.all
+
+    # TODO Accomplish the following two lines using ActiveRecord
+    @songs = @selected_title ? Song.where("songs.name LIKE ?", "%#{params[:title]}%") : Song.all
+    @songs &= @selected_artists.map(&:albums).flatten.map(&:songs).flatten if @selected_artists.present?
+
+    [@artists, @selected_artists, @songs].each(&:sort!)
 
     respond_to do |format|
       format.html # index.html.erb
