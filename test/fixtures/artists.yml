@@ -1,0 +1,17 @@
+beatles:
+  name: The Beatles
+
+beach_boys:
+  name: The Beach Boys
+
+bob_dylan:
+  name: Bob Dylan
+
+marvin_gaye:
+  name: Marvin Gaye
+
+rolling_stones:
+  name: The Rolling Stones
+
+clash:
+  name: The Clash

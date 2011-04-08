@@ -1,0 +1,52 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+sgt_pepper:
+  name: Sgt. Pepper's Lonely Hearts Club Band
+  artist: beatles
+  release_date: June 1, 1967
+
+pet_sounds:
+  name: Pet Sounds
+  artist: beach_boys
+  release_date: May 16, 1966
+
+revolver:
+  name: Revolver
+  artist: beatles
+  release_date: August 5, 1966
+
+highway:
+  name: Highway 61 Revisited
+  artist: bob_dylan
+  release_date: August 30, 1965
+
+rubber_soul:
+  name: Rubber Soul
+  artist: beatles
+  release_date: December 3, 1965
+
+going_on:
+  name: What's Going On
+  artist: marvin_gaye
+  release_date: May 21, 1971
+
+exile:
+  name: Exile on Main St.
+  artist: rolling_stones
+  release_date: May 12, 1972
+
+london_calling:
+  name: London Calling
+  artist: clash
+  release_date: December 14, 1979
+
+blonde:
+  name: Blonde on Blonde
+  artist: bob_dylan
+  release_date: May 20, 1966
+
+white_album:
+  name: The Beatles (The White Album)
+  artist: beatles
+  release_date: November 22, 1968
+

@@ -1,0 +1,750 @@
+sgt_pepper_a:
+  name: Sgt. Pepper's Lonely Hearts Club Band
+  length: "2:00"
+  album: sgt_pepper
+
+sgt_pepper_b:
+  name: With a Little Help from My Friends
+  length: "2:43"
+  album: sgt_pepper
+
+sgt_pepper_c:
+  name: Lucy in the Sky with Diamonds
+  length: "3:26"
+  album: sgt_pepper
+
+sgt_pepper_d:
+  name: Getting Better
+  length: "2:47"
+  album: sgt_pepper
+
+sgt_pepper_e:
+  name: Fixing a Hole
+  length: "2:35"
+  album: sgt_pepper
+
+sgt_pepper_f:
+  name: She's Leaving Home
+  length: "3:33"
+  album: sgt_pepper
+
+sgt_pepper_g:
+  name: Being for the Benefit of Mr. Kite!
+  length: "2:35"
+  album: sgt_pepper
+
+sgt_pepper_h:
+  name: Within You Without You
+  length: "5:05"
+  album: sgt_pepper
+
+sgt_pepper_i:
+  name: When I'm Sixty-Four
+  length: "2:37"
+  album: sgt_pepper
+
+sgt_pepper_j:
+  name: Lovely Rita
+  length: "2:41"
+  album: sgt_pepper
+
+sgt_pepper_k:
+  name: Good Morning Good Morning
+  length: "2:42"
+  album: sgt_pepper
+
+sgt_pepper_l:
+  name: Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+  length: "1:19"
+  album: sgt_pepper
+
+sgt_pepper_m:
+  name: A Day in the Life
+  length: "5:04"
+  album: sgt_pepper
+
+pet_sounds_a:
+  name: Wouldn't It Be Nice
+  length: "2:22"
+  album: pet_sounds
+
+pet_sounds_b:
+  name: You Still Believe in Me
+  length: "2:30"
+  album: pet_sounds
+
+pet_sounds_c:
+  name: That's Not Me
+  length: "2:27"
+  album: pet_sounds
+
+pet_sounds_d:
+  name: Don't Talk (Put Your Head on My Shoulder)
+  length: "2:51"
+  album: pet_sounds
+
+pet_sounds_e:
+  name: I'm Waiting for the Day
+  length: "3:03"
+  album: pet_sounds
+
+pet_sounds_f:
+  name: Let's Go Away for Awhile
+  length: "2:18"
+  album: pet_sounds
+
+pet_sounds_g:
+  name: Sloop John B
+  length: "2:56"
+  album: pet_sounds
+
+pet_sounds_h:
+  name: God Only Knows
+  length: "2:49"
+  album: pet_sounds
+
+pet_sounds_i:
+  name: I Know There's an Answer
+  length: "3:08"
+  album: pet_sounds
+
+pet_sounds_j:
+  name: Here Today
+  length: "2:52"
+  album: pet_sounds
+
+pet_sounds_k:
+  name: I Just Wasn't Made for These Times
+  length: "3:11"
+  album: pet_sounds
+
+pet_sounds_l:
+  name: Pet Sounds
+  length: "2:20"
+  album: pet_sounds
+
+pet_sounds_m:
+  name: Caroline, No
+  length: "2:52"
+  album: pet_sounds
+
+revolver_a:
+  name: Taxman
+  length: "2:39"
+  album: revolver
+
+revolver_b:
+  name: Eleanor Rigby
+  length: "2:08"
+  album: revolver
+
+revolver_c:
+  name: I'm Only Sleeping
+  length: "3:02"
+  album: revolver
+
+revolver_d:
+  name: Love You To
+  length: "3:01"
+  album: revolver
+
+revolver_e:
+  name: Here, There and Everywhere
+  length: "2:26"
+  album: revolver
+
+revolver_f:
+  name: Yellow Submarine
+  length: "2:40"
+  album: revolver
+
+revolver_g:
+  name: She Said She Said
+  length: "2:37"
+  album: revolver
+
+revolver_h:
+  name: Good Day Sunshine
+  length: "2:10"
+  album: revolver
+
+revolver_i:
+  name: And Your Bird Can Sing
+  length: "2:02"
+  album: revolver
+
+revolver_j:
+  name: For No One
+  length: "2:01"
+  album: revolver
+
+revolver_k:
+  name: Doctor Robert
+  length: "2:15"
+  album: revolver
+
+revolver_l:
+  name: I Want to Tell You
+  length: "2:30"
+  album: revolver
+
+revolver_m:
+  name: Got to Get You into My Life
+  length: "2:31"
+  album: revolver
+
+revolver_n:
+  name: Tomorrow Never Knows
+  length: "2:57"
+  album: revolver
+
+highway_a:
+  name: Like a Rolling Stone
+  length: "6:09"
+  album: highway
+
+highway_b:
+  name: Tombstone Blues
+  length: "5:58"
+  album: highway
+
+highway_c:
+  name: It Takes a Lot to Laugh, It Takes a Train to Cry
+  length: "4:09"
+  album: highway
+
+highway_d:
+  name: From a Buick 6
+  length: "3:19"
+  album: highway
+
+highway_e:
+  name: Ballad of a Thin Man
+  length: "5:58"
+  album: highway
+
+highway_f:
+  name: Queen Jane Approximately
+  length: "5:31"
+  album: highway
+
+highway_g:
+  name: Highway 61 Revisited
+  length: "3:30"
+  album: highway
+
+highway_h:
+  name: Just Like Tom Thumb's Blues
+  length: "5:31"
+  album: highway
+
+highway_i:
+  name: Desolation Row
+  length: "11:21"
+  album: highway
+
+rubber_soul_a:
+  name: I've Just Seen a Face
+  length: "2:07"
+  album: rubber_soul
+
+rubber_soul_b:
+  name: Norwegian Wood (This Bird Has Flown)
+  length: "2:05"
+  album: rubber_soul
+
+rubber_soul_c:
+  name: You Won't See Me
+  length: "3:22"
+  album: rubber_soul
+
+rubber_soul_d:
+  name: Think for Yourself
+  length: "2:19"
+  album: rubber_soul
+
+rubber_soul_e:
+  name: The Word
+  length: "2:43"
+  album: rubber_soul
+
+rubber_soul_f:
+  name: Michelle
+  length: "2:42"
+  album: rubber_soul
+
+rubber_soul_g:
+  name: It's Only Love
+  length: "1:55"
+  album: rubber_soul
+
+rubber_soul_h:
+  name: Girl
+  length: "2:33"
+  album: rubber_soul
+
+rubber_soul_i:
+  name: I'm Looking Through You
+  length: "2:31"
+  album: rubber_soul
+
+rubber_soul_j:
+  name: In My Life
+  length: "2:27"
+  album: rubber_soul
+
+rubber_soul_k:
+  name: Wait
+  length: "2:16"
+  album: rubber_soul
+
+rubber_soul_l:
+  name: Run for Your Life
+  length: "2:18"
+  album: rubber_soul
+
+going_on_a:
+  name: What's Going On
+  length: "3:53"
+  album: going_on
+
+going_on_b:
+  name: What's Happening Brother
+  length: "2:43"
+  album: going_on
+
+going_on_c:
+  name: Flyin' High (In the Friendly Sky)
+  length: "3:49"
+  album: going_on
+
+going_on_d:
+  name: Save the Children
+  length: "4:03"
+  album: going_on
+
+going_on_e:
+  name: God Is Love
+  length: "1:41"
+  album: going_on
+
+going_on_f:
+  name: Mercy Mercy Me (The Ecology)
+  length: "3:16"
+  album: going_on
+
+going_on_g:
+  name: Right On
+  length: "7:31"
+  album: going_on
+
+going_on_h:
+  name: Wholy Holy
+  length: "3:08"
+  album: going_on
+
+going_on_i:
+  name: Inner City Blues (Make Me Wanna Holler)
+  length: "5:26"
+  album: going_on
+
+exile_a:
+  name: Rocks Off
+  length: "4:31"
+  album: exile
+
+exile_b:
+  name: Rip This Joint
+  length: "2:22"
+  album: exile
+
+exile_c:
+  name: Shake Your Hips
+  length: "2:59"
+  album: exile
+
+exile_d:
+  name: Casino Boogie
+  length: "3:33"
+  album: exile
+
+exile_e:
+  name: Tumbling Dice
+  length: "3:45"
+  album: exile
+
+exile_:
+  name: Sweet Virginia
+  length: "4:27"
+  album: exile
+
+exile_:
+  name: Torn and Frayed
+  length: "4:17"
+  album: exile
+
+exile_f:
+  name: Sweet Black Angel
+  length: "2:54"
+  album: exile
+
+exile_g:
+  name: Loving Cup
+  length: "4:25"
+  album: exile
+
+exile_h:
+  name: Happy
+  length: "3:04"
+  album: exile
+
+exile_i:
+  name: Ventilator Blues
+  length: "3:24"
+  album: exile
+
+exile_j:
+  name: I Just Want to See His Face
+  length: "2:52"
+  album: exile
+
+exile_k:
+  name: Let It Loose
+  length: "5:16"
+  album: exile
+
+exile_l:
+  name: All Down the Line
+  length: "3:49"
+  album: exile
+
+exile_m:
+  name: Stop Breaking Down
+  length: "4:34"
+  album: exile
+
+exile_n:
+  name: Shine a Light
+  length: "4:14"
+  album: exile
+
+exile_o:
+  name: Soul Survivor
+  length: "3:49"
+  album: exile
+
+london_calling_a:
+  name: London Calling
+  length: "3:19"
+  album: london_calling
+
+london_calling_b:
+  name: Brand New Cadillac
+  length: "2:09"
+  album: london_calling
+
+london_calling_c:
+  name: Jimmy Jazz
+  length: "3:51"
+  album: london_calling
+
+london_calling_d:
+  name: Hateful
+  length: "3:22"
+  album: london_calling
+
+london_calling_e:
+  name: Rudie Can't Fail
+  length: "3:26"
+  album: london_calling
+
+london_calling_f:
+  name: Spanish Bombs
+  length: "3:18"
+  album: london_calling
+
+london_calling_g:
+  name: The Right Profile
+  length: "4:00"
+  album: london_calling
+
+london_calling_h:
+  name: Lost in the Supermarket
+  length: "3:47"
+  album: london_calling
+
+london_calling_i:
+  name: Clampdown
+  length: "3:50"
+  album: london_calling
+
+london_calling_j:
+  name: The Guns of Brixton
+  length: "3:07"
+  album: london_calling
+
+london_calling_k:
+  name: Wrong 'Em Boyo
+  length: "3:10"
+  album: london_calling
+
+london_calling_l:
+  name: Death or Glory
+  length: "3:55"
+  album: london_calling
+
+london_calling_m:
+  name: Koka Kola
+  length: "1:45"
+  album: london_calling
+
+london_calling_n:
+  name: The Card Cheat
+  length: "3:51"
+  album: london_calling
+
+london_calling_o:
+  name: Lover's Rock
+  length: "4:01"
+  album: london_calling
+
+london_calling_p:
+  name: Four Horsemen
+  length: "3:00"
+  album: london_calling
+
+london_calling_q:
+  name: I'm Not Down
+  length: "3:00"
+  album: london_calling
+
+london_calling_r:
+  name: Revolution Rock
+  length: "5:37"
+  album: london_calling
+
+london_calling_s:
+  name: Train in Vain
+  length: "3:11"
+  album: london_calling
+
+blonde_a:
+  name: Rainy Day Women #12 & 35
+  length: "4:36"
+  album: blonde
+
+blonde_b:
+  name: Pledging My Time
+  length: "3:50"
+  album: blonde
+
+blonde_c:
+  name: Visions of Johanna
+  length: "7:33"
+  album: blonde
+
+blonde_d:
+  name: One of Us Must Know (Sooner or Later)
+  length: "4:54"
+  album: blonde
+
+blonde_e:
+  name: I Want You
+  length: "3:07"
+  album: blonde
+
+blonde_f:
+  name: Stuck Inside of Mobile with the Memphis Blues Again
+  length: "7:05"
+  album: blonde
+
+blonde_g:
+  name: Leopard-Skin Pill-Box Hat
+  length: "3:58"
+  album: blonde
+
+blonde_h:
+  name: Just Like a Woman
+  length: "4:52"
+  album: blonde
+
+blonde_i:
+  name: Most Likely You Go Your Way (And I'll Go Mine)
+  length: "3:30"
+  album: blonde
+
+blonde_j:
+  name: Temporary Like Achilles
+  length: "5:02"
+  album: blonde
+
+blonde_k:
+  name: Absolutely Sweet Marie
+  length: "4:57"
+  album: blonde
+
+blonde_l:
+  name: 4th Time Around
+  length: "4:35"
+  album: blonde
+
+blonde_m:
+  name: Obviously 5 Believers
+  length: "3:35"
+  album: blonde
+
+blonde_n:
+  name: Sad Eyed Lady of the Lowlands
+  length: "11:23"
+  album: blonde
+
+white_album_a:
+  name: Back in the U.S.S.R.
+  length: "2:43"
+  album: white_album
+
+white_album_b:
+  name: Dear Prudence
+  length: "3:56"
+  album: white_album
+
+white_album_c:
+  name: Glass Onion
+  length: "2:17"
+  album: white_album
+
+white_album_d:
+  name: Ob-La-Di, Ob-La-Da
+  length: "3:08"
+  album: white_album
+
+white_album_e:
+  name: Wild Honey Pie
+  length: "1:01"
+  album: white_album
+
+white_album_f:
+  name: The Continuing Story of Bungalow Bill
+  length: "3:14"
+  album: white_album
+
+white_album_g:
+  name: While My Guitar Gently Weeps
+  length: "4:45"
+  album: white_album
+
+white_album_h:
+  name: Happiness Is a Warm Gun
+  length: "2:43"
+  album: white_album
+
+white_album_i:
+  name: Martha My Dear
+  length: "2:28"
+  album: white_album
+
+white_album_j:
+  name: I'm So Tired
+  length: "2:03"
+  album: white_album
+
+white_album_k:
+  name: Blackbird
+  length: "2:18"
+  album: white_album
+
+white_album_l:
+  name: Piggies
+  length: "2:04"
+  album: white_album
+
+white_album_m:
+  name: Rocky Raccoon
+  length: "3:41"
+  album: white_album
+
+white_album_n:
+  name: Don't Pass Me By
+  length: "3:42"
+  album: white_album
+
+white_album_o:
+  name: Why Don't We Do It in the Road?
+  length: "1:41"
+  album: white_album
+
+white_album_p:
+  name: I Will
+  length: "1:46"
+  album: white_album
+
+white_album_q:
+  name: Julia
+  length: "2:54"
+  album: white_album
+
+white_album_r:
+  name: Birthday
+  length: "2:42"
+  album: white_album
+
+white_album_s:
+  name: Yer Blues
+  length: "4:01"
+  album: white_album
+
+white_album_t:
+  name: Mother Nature's Son
+  length: "2:48"
+  album: white_album
+
+white_album_u:
+  name: Everybody's Got Something to Hide Except Me and My Monkey
+  length: "2:24"
+  album: white_album
+
+white_album_v:
+  name: Sexy Sadie
+  length: "3:15"
+  album: white_album
+
+white_album_w:
+  name: Helter Skelter
+  length: "4:29"
+  album: white_album
+
+white_album_x:
+  name: Long, Long, Long
+  length: "3:04"
+  album: white_album
+
+white_album_y:
+  name: Revolution 1
+  length: "4:15"
+  album: white_album
+
+white_album_z:
+  name: Honey Pie
+  length: "2:41"
+  album: white_album
+
+white_album_aa:
+  name: Savoy Truffle
+  length: "2:54"
+  album: white_album
+
+white_album_ab:
+  name: Cry Baby Cry
+  length: "3:11"
+  album: white_album
+
+white_album_ac:
+  name: Revolution 9
+  length: "8:22"
+  album: white_album
+
+white_album_ad:
+  name: Good Night
+  length: "3:11"
+  album: white_album
+
