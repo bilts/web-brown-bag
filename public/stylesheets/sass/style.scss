@@ -1,1 +1,15 @@
+$sidebar-width:200px;
+$page-width:1000px;
+$separation:10px; // Horizontal separation of sections
+$content-width:$page-width - $sidebar-width - 3*$separation;
+
+$base:#14529F;
+$header-bg-color:$base;
+$sub-header-bg-color:lighten($base, 50%);
+$sub-header-color:darken($base, 10%);
+$link-color:darken($base, 20%);
+$link-hover-color:darken($base, 10%);
+$border-color:lighten($base, 50%);
+$alt-item-bg-color:hsl(hue($base)+250, saturation($base)*.2, lightness($base)*2.3);
+$content-bg-color:desaturate($base, 30%);
 
